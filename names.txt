@@ -212,6 +212,7 @@ David Hilmers
 Kathryn Hire
 Charles Hobaugh
 Jeffrey Hoffman
+Michael S. Hopkins
 Scott Horowitz
 Akihiko Hoshide
 Millie Hughes-Fulford
@@ -398,6 +399,7 @@ Jerry L. Ross
 Valery Rozhdestvensky
 Nikolay Rukavishnikov
 Mario Runco
+Sergey Ryazansky
 Valery Ryumin
 Albert Sacco
 Aleksandr Samokutyayev
